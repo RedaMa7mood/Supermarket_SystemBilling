@@ -7,4 +7,4 @@ This system allows administrators to add, update, and delete products, while buy
 ✅ Admin authentication for secure access
 ✅ User-friendly menu system for easy navigation
 
-💡 Through this project, I strengthened my skills in C++ file handling, data structures, and OOP design.
+💡 Through this project, I strengthened my skills in C++ file handling, and OOP design.
